@@ -17,7 +17,7 @@ body {
 
 
 .navbar {
-  background-color: #3cd0e7;
+  background-color: #8B0000;
 }
 .navbar .navbar-brand {
   color: #ecf0f1;
@@ -67,6 +67,53 @@ body {
 .navbar .navbar-link:hover {
   color: #bbc9ff;
 }
+
+.main-color-bg {
+  background-color: #8B0000 !important;
+  border-color: #c0392b !important;
+  color: #ffffff;
+}
+
+
+/* Header */
+#header {
+  background: #333333;
+  color: #fff;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+/* section */
+.breadcrumb {
+  background: #cccccc;
+  color: #333333;
+}
+
+.breadcrumb a {
+  color: #333333;
+}
+
+.progress-bar {
+  background: #333333 !important;
+  color: #ffffff !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media (max-width: 575px) {
   .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
