@@ -71,7 +71,7 @@ body {
 .main-color-bg {
   background-color: #8B0000 !important;
   border-color: #c0392b !important;
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 
