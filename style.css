@@ -99,7 +99,18 @@ body {
 }
 
 
+.panel-body th {
+  text-align: center;
+  color:  darkblue;
+}
 
+.panel-body td {
+  color: darkolivegreen;
+}
+
+.panel-body button {
+  text-align: center;
+}
 
 
 
